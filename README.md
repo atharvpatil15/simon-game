@@ -60,7 +60,7 @@ It’s a hands-on way to deepen my understanding of how JavaScript interacts wit
 
 ## 🧪 Live Preview
 
-(https://atharvpatil15.github.io/simon-game/)
+https://atharvpatil15.github.io/simon-game/
 
 ---
 
